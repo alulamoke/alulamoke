@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on my own company called**timeless-tech**
+ 🔭 I’m currently working on my own company called **timeless-tech**
  
  🌱 I’m currently learning **Kubernetes**
 
