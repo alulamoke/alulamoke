@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on my own company called **<a href="https://timeless-tech.netlify.app" target="_blank">Timeless Technologies</a>**
  
- 🌱 I’m currently learning **Kubernetes**
+ 🌱 I’m currently learning **Rust**
 
 💬 Ask me about **Node.js, React, Nextjs, Javascript, Typescript... or anything [here](https://github.com/alulamoke/alulamoke/issues)**
 
