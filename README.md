@@ -9,9 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **<a href="https://timeless-tech.netlify.app" target="_blank">Zapi Financial Technology S.C.</a>**
- 
- 🌱 I’m currently learning **Rust**
+🔭 I’m currently working on **<a href="https://zapihq.com" target="_blank">Zapi Financial Technology S.C.</a>**
 
 💬 Ask me about **Soft engineering... or anything [here](https://github.com/alulamoke/alulamoke/issues)**
 
