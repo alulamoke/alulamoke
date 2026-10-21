@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on my own company called **<a href="https://timeless-tech.netlify.app" target="_blank">Timeless Technologies</a>**
+ 🔭 I’m currently working on **<a href="https://timeless-tech.netlify.app" target="_blank">Zapi Financial Technology S.C.</a>**
  
  🌱 I’m currently learning **Rust**
 
