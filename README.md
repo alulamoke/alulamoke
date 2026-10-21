@@ -11,6 +11,6 @@
  
 🔭 I’m currently working on **<a href="https://zapihq.com" target="_blank">Zapi Financial Technology S.C.</a>**
 
-💬 Ask me about **Soft engineering... or anything [here](https://github.com/alulamoke/alulamoke/issues)**
+💬 Ask me about **Software engineering... or anything [here](https://github.com/alulamoke/alulamoke/issues)**
 
  </div>
